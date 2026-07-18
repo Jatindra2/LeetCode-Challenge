@@ -5,9 +5,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
 | [3701-compute-alternating-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3701-compute-alternating-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
