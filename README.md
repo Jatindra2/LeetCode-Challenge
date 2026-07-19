@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
