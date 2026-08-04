@@ -3,8 +3,8 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         int n = nums.length;
         int[] present = new int[n+1];
-        for(int num : nums){
-            present[num] = 1;
+        for(int i = 0; i<n; i++){
+            present[nums[i]] = 1;
         }
 
         for(int i = 1; i<=n; i++){
