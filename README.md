@@ -10,6 +10,7 @@
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 | [3701-compute-alternating-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
