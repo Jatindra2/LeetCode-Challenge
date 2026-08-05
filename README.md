@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
@@ -64,4 +65,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
