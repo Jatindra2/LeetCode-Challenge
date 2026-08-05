@@ -69,4 +69,16 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
