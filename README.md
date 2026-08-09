@@ -11,6 +11,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 | [3701-compute-alternating-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3731-find-missing-elements) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 | [2413-smallest-even-multiple](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -41,6 +43,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -52,14 +55,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
@@ -91,4 +97,8 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
