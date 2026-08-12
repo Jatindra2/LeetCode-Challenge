@@ -9,9 +9,6 @@ class Solution {
             r = r*10 + (y%10);
             y /= 10;
         }
-        if (r == x){
-            return true;
-        }
-        return false;
+        return x == r;
     }
 }
