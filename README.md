@@ -35,6 +35,7 @@
 | [0007-reverse-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/1140-stone-game-ii) |
@@ -57,6 +58,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
