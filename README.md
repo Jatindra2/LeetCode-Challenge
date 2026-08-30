@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0069-sqrtx) |
@@ -109,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
