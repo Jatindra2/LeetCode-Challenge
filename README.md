@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
