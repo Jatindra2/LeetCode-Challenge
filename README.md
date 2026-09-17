@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
