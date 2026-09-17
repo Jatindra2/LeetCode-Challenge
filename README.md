@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
@@ -120,6 +121,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -157,4 +159,20 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
