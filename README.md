@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -94,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/3731-find-missing-elements) |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -175,4 +179,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jatindra2/LeetCode-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
